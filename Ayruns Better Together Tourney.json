@@ -1,6 +1,6 @@
 {
 	"Name": "Better Together",
-	"Version": 1745520863,
+	"Version": 1745780382,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2389,11 +2389,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
